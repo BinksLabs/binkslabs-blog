@@ -1,0 +1,25 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "start": "next start",
+    "build": "next build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "helmet": "^5.1.1",
+    "moment": "^2.29.4",
+    "mongoose": "^6.5.0",
+    "next": "^12.2.3",
+    "prismjs": "^1.28.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
