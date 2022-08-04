@@ -24,10 +24,9 @@ export default class extends Component {
         <Header />
         <div className="homepage-container">
           <div className="homepage-introduction">
-            <h1>Hi, I'm Mike Hardy. I build full stack web applications.</h1>
+            <h1>Hi, I'm Mike Hardy.</h1>
             <p>
-              I am a software engineer who develops full stack applications with
-              modern JavaScript. View some of my projects below!
+              I am a software engineer 
             </p>
           </div>
 
