@@ -24,9 +24,12 @@ export default class extends Component {
         <Header />
         <div className="homepage-container">
           <div className="homepage-introduction">
-            <h1>Hi, I'm Mike Hardy.</h1>
+            <h1>Hi, I'm Mike Hardy. I am a software developer from Maine, United States.</h1>
             <p>
-              I am a software engineer 
+            I write about freelance web development, software engineering, and frontend development. I also build modern and responsive full stack web applications.
+            </p>
+            <p>
+              Check out some of my projects below!
             </p>
           </div>
 

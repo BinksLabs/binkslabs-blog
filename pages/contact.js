@@ -17,31 +17,31 @@ export default class extends Component {
           <div className="contact-section">
             <h1>Contact</h1>
             <p>
-              Hi, I'm Mike, a full stack software engineer based out of rural Maine. I write about modern JavaScript and build guided coding courses that show people how to build real world applications.
+              I currently building projects for freelance clients and other web apps that can produce side income for myself. I do freelance work for businesses in my state and online at upwork and fiverr.
               
             </p>
             <p>
               If you have any comments, ideas, critiques, or you just want to
               say hi, don’t hesitate to send me an email at
-              nick@coderrocketfuel.com!
+              mike@binkslabs.com!
             </p>
           </div>
           <div className="contact-section">
             <h2>Around the Web</h2>
             <ul>
               <li>
-                <strong>Email</strong>: nick@coderrocketfuel.com
+                <strong>Email</strong>: mike@binkslabs.com
               </li>
               <li>
                 <strong>GitHub</strong>:{" "}
-                <a href="https://github.com/coder-rocket-fuel">
-                  Coder Rocket Fuel
+                <a href="https://github.com/binkslabs">
+                  Binks Labs
                 </a>
               </li>
               <li>
                 <strong>Twitter</strong>:{" "}
-                <a href="https://twitter.com/CoderRocketFuel">
-                  Coder Rocket Fuel Twitter Page
+                <a href="https://twitter.com/binkslabs">
+                  Binks Labs Twitter Page
                 </a>
               </li>
             </ul>
