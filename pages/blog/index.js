@@ -7,6 +7,7 @@ import HeadMetadata from "../../components/headMetadata.js";
 
 
 import getAllBlogPosts from "../../api/getAllBlogPosts.js";
+import GoogleAnalytics from "../../components/googleAnalytics.js";
 
 export default class extends Component {
   static async getInitialProps() {
@@ -26,6 +27,7 @@ export default class extends Component {
           title="BinksLabs - Coding Blog"
           metaDescription="Explore and learn in the BinksLabs coding blog with expert resources and masterfully crafted guided projects."
         />
+        <GoogleAnalytics/>
         <Header />
         <div className="blog-posts-container">
           <h1>Blog posts</h1>

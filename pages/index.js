@@ -4,6 +4,7 @@ import Header from "../components/header.js";
 import Footer from "../components/footer.js";
 import HeadMetadata from "../components/headMetadata.js";
 import getFiveNewestPosts from "../api/getFiveNewestPosts.js";
+import GoogleAnalytics from "../components/googleAnalytics.js"
 
 export default class extends Component {
   static async getInitialProps() {
@@ -21,6 +22,7 @@ export default class extends Component {
           title="BinksLabs - Software Solutions"
           metaDescription="BinksLabs is a software engineering firm servicing small business and personal applications."
         />
+        <GoogleAnalytics/>
         <Header />
         <div className="homepage-container">
           <div className="homepage-introduction">
